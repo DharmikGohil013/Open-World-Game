@@ -1,0 +1,6 @@
+{
+  "name": "Infinite World Crafter 3D",
+  "description": "Create your own open world from a blank canvas with seamless roads, rivers, houses, skyscrapers, glowing streetlights, driving exploration, and dynamic day-night cycles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
